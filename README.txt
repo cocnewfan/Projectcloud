@@ -4,3 +4,5 @@ Nhóm thực hiện:
 Nguyễn Thành Công 1813304
 Trịnh Công Viễn 18133061
 Danh sách các yêu cầu của đề tài:
+- Thư viện https://docs.gethue.com/
+- Viết ứng dụng sử dụng thư viện này
